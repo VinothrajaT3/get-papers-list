@@ -1,0 +1,54 @@
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# OS-specific files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# Editor/IDE configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Testing and coverage
+.coverage
+.tox/
+.nox/
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MyPy / Pyright / Pylint
+.mypy_cache/
+.pytype/
+.pyright/
+
+# Pyre type checker
+.pyre/
+
+# Local secrets or environment variables
+.env.*
+*.env
