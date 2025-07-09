@@ -80,6 +80,7 @@ This project was designed with the assistance of OpenAI's ChatGPT (GPT-4o) to:
 - Suggest multi-threading and rate-limiting techniques
 - Enhance output formatting using Rich
 
+Conversation link: https://chatgpt.com/share/686e4160-1f64-8007-ae3d-4ffc73c6eb82
 ---
 
 ## 📄 License
